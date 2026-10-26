@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Game Booster Pro Studio",
+  "description": "Инженерная среда разработки, интерактивный симулятор GUI (customtkinter) и генератор полного исходного кода main.py на Python 3.11+ для низкоуровневой оптимизации Windows 10/11 под Arma Reforger, Squad, Dota 2 и Deadlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
